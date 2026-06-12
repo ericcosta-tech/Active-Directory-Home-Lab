@@ -12,3 +12,14 @@ Walkthrough and documentation of my Windows Server 2022 and Active Directory hom
 4. Creating Organizational Units (OUs) and Users
 5. Joining a Windows 11 Client to the Domain
 6. Group Policy Object (GPO) Implementation
+
+---
+
+## Project Walkthrough
+
+### 1. Domain Infrastructure & DNS Health
+* **Objective:** To build and secure a functional enterprise domain using Oracle VirtualBox to practice Tier 1 IT Support skills.
+* **Action:** Verified the health of Active Directory Integrated DNS zones. This ensures the domain can correctly resolve names, which is critical for workstations to locate the Domain Controller.
+
+#### Verification Screenshot:
+<img width="752" height="520" alt="Lab_DNS_Health_Check" src="https://github.com/user-attachments/assets/99a9c6ec-cca7-4eeb-a9e9-f324b101eb90" />

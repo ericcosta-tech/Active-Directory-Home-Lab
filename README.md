@@ -26,9 +26,10 @@ Walkthrough and documentation of my Windows Server 2022 and Active Directory hom
 ### 2. Network Connectivity & IP Configuration
 
 #### Static IP & DNS Verification:
+* **Action:** Verified the network ‘handshake’ by confirming the Server is set to a Static IP and the Windows 11 workstation is correctly pointing to that IP for DNS resolution. This configuration is essential for the client to authenticate with the Active Directory domain.
 <img width="955" height="506" alt="Network_IP_Configuration_Verification" src="https://github.com/user-attachments/assets/8e8508fc-07bb-4b25-97ea-b5fbb9c3caea" />
 <img width="964" height="508" alt="Network_IP_Configuration_Verification2" src="https://github.com/user-attachments/assets/7f1c8430-fe94-4942-bd40-c831cd701d0b" />
-* **Action:** Verified the network ‘handshake’ by confirming the Server is set to a Static IP and the Windows 11 workstation is correctly pointing to that IP for DNS resolution. This configuration is essential for the client to authenticate with the Active Directory domain.
+
 
 #### Connectivity & Loopback Diagnostics:
 * **Diagnostics:** Performed a Ping test to the Domain Controller to verify network communication and a Loopback test to confirm the local TCP/IP stack was functioning correctly.

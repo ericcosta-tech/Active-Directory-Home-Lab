@@ -41,3 +41,9 @@ Walkthrough and documentation of my Windows Server 2022 and Active Directory hom
 
 #### Active Directory Users and Computers (OU & User Provisioning):
 <img width="752" height="527" alt="AD_Sales_OU_JamesMiller" src="https://github.com/user-attachments/assets/d0494f1c-e505-475a-9f5b-19d885aa47e3" />
+### 4. Security Implementation & Access Control
+* **Objective:** To implement security settings that enforce the Principle of Least Privilege (PoLP), ensuring that sensitive data is restricted to authorized users only.
+* **Action:** Successfully restricted access to the "Marketing_Data" share, verifying that users without appropriate permissions are denied access and confirming that file security is correctly configured to protect sensitive company information.
+
+#### Access Control Verification:
+<img width="783" height="594" alt="Sarah_Acces_Denied" src="https://github.com/user-attachments/assets/783c1fd4-207e-4f20-a130-966d442a392d" />

@@ -35,3 +35,9 @@ Walkthrough and documentation of my Windows Server 2022 and Active Directory hom
 * **Diagnostics:** Performed a Ping test to the Domain Controller to verify network communication and a Loopback test to confirm the local TCP/IP stack was functioning correctly.
 <img width="996" height="622" alt="Loopback_Test_NIC" src="https://github.com/user-attachments/assets/4a54036e-c13d-4123-ac5b-d2e72ec7b103" />
 <img width="996" height="620" alt="Ping_Server_Connectivity" src="https://github.com/user-attachments/assets/c42ebbd7-9fcd-42da-b4d5-904d91714f6f" />
+### 3. Identity & Access Management (Active Directory)
+* **Objective:** To establish a structured and secure identity management framework by implementing Organizational Units (OUs) and provisioning user accounts within Active Directory.
+* **Action:** Configured the logical structure of the domain by creating dedicated Organizational Units (OUs) for business departments (Marketing and Sales) and provisioned standard user accounts to simulate enterprise identity management.
+
+#### Active Directory Users and Computers (OU & User Provisioning):
+<img width="752" height="527" alt="AD_Sales_OU_JamesMiller" src="https://github.com/user-attachments/assets/d0494f1c-e505-475a-9f5b-19d885aa47e3" />

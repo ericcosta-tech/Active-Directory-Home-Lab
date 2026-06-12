@@ -6,7 +6,7 @@ Walkthrough and documentation of my Windows Server 2022 and Active Directory hom
 * **Hypervisor:** Oracle VirtualBox
 
 ### Project Steps
-1. Hypervisor and Virtual Network Configuration
+1. Hypervisor and Virtual Network Configuration 
 2. Windows Server 2022 Installation and IP Configuration
 3. Active Directory Domain Services (AD DS) Promotion
 4. Creating Organizational Units (OUs) and Users

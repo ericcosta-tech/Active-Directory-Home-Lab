@@ -47,3 +47,12 @@ Walkthrough and documentation of my Windows Server 2022 and Active Directory hom
 
 #### Access Control Verification:
 <img width="783" height="594" alt="Sarah_Acces_Denied" src="https://github.com/user-attachments/assets/783c1fd4-207e-4f20-a130-966d442a392d" />
+### 5. Security Policy & Account Management
+* **Objective:** To define and enforce account security standards that mitigate brute force risks, while establishing clear administrative procedures for incident remediation.
+* **Action:** Implemented a GPO-based Account Lockout Policy and demonstrated the ability to monitor and resolve account lockouts through Active Directory Users and Computers.
+
+#### Policy Enforcement (Account Lockout):
+<img width="1023" height="693" alt="Client_Account_Lockout_Error" src="https://github.com/user-attachments/assets/7e830ae7-484b-4aef-9c98-c2402c3ad1aa" />
+
+#### Administrative Remediation (Account Unlock):
+<img width="411" height="553" alt="AD_Account_Unlock_Admin" src="https://github.com/user-attachments/assets/762b4a5b-7173-445c-87d7-3c7885c3389e" />

@@ -1,7 +1,7 @@
 ### Active Directory Lab Simulating Real IT Support Scenarios
 Walkthrough and documentation of my Windows Server 2022 and Active Directory home lab.
 ### Purpose and Technologies Used
-* **Purpose:** To build a fully functional Active Directory environment from scratch to practice enterprise user management, group policies, and core networking concepts.
+* **Purpose:** To build a fully functional Active Directory enterprise domain using Oracle VirtualBox to practice enterprise-level Active Directory management, group policies, and core networking concepts.
 * **Operating Systems:** Windows Server 2022, Windows 11
 * **Hypervisor:** Oracle VirtualBox
 

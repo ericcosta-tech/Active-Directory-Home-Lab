@@ -4,7 +4,7 @@ This project simulates common Tier 1 IT support tasks in a Windows Active Direct
 
 ---
 
-### 🔹 What This Project Demonstrates
+### Project Overview
 * DNS configuration and domain connectivity
 * Domain-joined client setup and validation
 * Active Directory user and group management
@@ -13,14 +13,14 @@ This project simulates common Tier 1 IT support tasks in a Windows Active Direct
 
 ---
 
-### 🔹 Technologies Used
+### Technologies Used
 * **Operating Systems:** Windows Server 2022, Windows 11
 * **Hypervisor:** Oracle VirtualBox
 * **Core Services:** Active Directory Domain Services (AD DS), DNS
 
 ---
 
-### 🔹 Lab Environment Architecture
+### Lab Environment Architecture
 To simulate an enterprise environment, the lab was built using a private virtual network with the following specifications:
 * **Domain Controller:** Windows Server 2022, configured as a root domain controller.
 * **Network Configuration:** Configured with an isolated virtual network adapter to manage lab traffic and ensure secure internal communication.
@@ -28,7 +28,7 @@ To simulate an enterprise environment, the lab was built using a private virtual
 
 ---
 
-## 🔹 Project Walkthrough & Documentation
+## Project Walkthrough & Documentation
 
 ### 1. Network Infrastructure & Connectivity
 * **Objective:** Establish the foundation of the lab by configuring static IP addressing and verifying network communication between the Client and the Domain Controller.
@@ -74,7 +74,7 @@ To simulate an enterprise environment, the lab was built using a private virtual
 
 ---
 
-### 🔹 Key Takeaways
+### Key Takeaways
 * Gained hands-on experience with Active Directory infrastructure in an enterprise-simulated environment.
 * Developed systematic troubleshooting methodologies for common network, DNS, and user account issues.
 * Built foundational knowledge of Windows Server administration, Group Policy Objects (GPOs), and network security mapping.

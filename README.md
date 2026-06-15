@@ -1,4 +1,4 @@
-### Active-Directory-Home-Lab
+### Active Directory Lab Simulating Real IT Support Scenarios
 Walkthrough and documentation of my Windows Server 2022 and Active Directory home lab.
 ### Purpose and Technologies Used
 * **Purpose:** To build a fully functional Active Directory environment from scratch to practice enterprise user management, group policies, and core networking concepts.

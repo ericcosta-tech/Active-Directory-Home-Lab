@@ -56,3 +56,11 @@ Walkthrough and documentation of my Windows Server 2022 and Active Directory hom
 
 ### Administrative Remediation (Account Unlock):
 <img width="411" height="553" alt="AD_Account_Unlock_Admin" src="https://github.com/user-attachments/assets/762b4a5b-7173-445c-87d7-3c7885c3389e" />
+
+### Password Reset
+
+**Objective:** To demonstrate the process of successfully resetting a user account password within Active Directory.
+
+**Action:** I accessed the Active Directory Users and Computers management console, located the specific user account, and performed a password reset. This process ensures that administrative access is maintained and security protocols are followed for user account recovery.
+
+<img width="755" height="531" alt="AD_Password_Reset_Success" src="https://github.com/user-attachments/assets/ece7b0e5-c7f1-4c0c-90d7-9855ef5ff71e" />

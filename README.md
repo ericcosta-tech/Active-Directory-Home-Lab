@@ -12,7 +12,7 @@ Walkthrough and documentation of my Windows Server 2022 and Active Directory hom
 4. Creating Organizational Units (OUs) and Users
 5. Joining a Windows 11 Client to the Domain
 6. Group Policy Object (GPO) Implementation
-
+7. Password Reset and Account Remediation
 ---
 
 ### Project Walkthrough

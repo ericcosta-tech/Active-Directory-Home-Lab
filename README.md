@@ -20,6 +20,14 @@ This project simulates common Tier 1 IT support tasks in a Windows Active Direct
 
 ---
 
+### 🔹 Lab Environment Architecture
+To simulate an enterprise environment, the lab was built using a private virtual network with the following specifications:
+* **Domain Controller:** Windows Server 2022, configured as a root domain controller.
+* **Network Configuration:** Configured with an isolated virtual network adapter to manage lab traffic and ensure secure internal communication.
+* **Client Workstation:** Windows 11, deployed on the same virtual network to test end-user policies and help desk troubleshooting.
+
+---
+
 ## 🔹 Project Walkthrough & Documentation
 
 ### 1. Network Infrastructure & Connectivity
